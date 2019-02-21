@@ -4661,6 +4661,8 @@
 <4082> +proj=utm +zone=27 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
 # REGCAN95 / UTM zone 28N
 <4083> +proj=utm +zone=28 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# ETRS 1989 / UTM Zone 33N
+<5650> +proj=tmerc +lat_0=0 +lon_0=15 +k=0.9996 +x_0=33500000 +y_0=0 +ellps=GRS80 +units=m +no_defs  <>
 # WGS 84 / World Equidistant Cylindrical
 # Unable to translate coordinate system EPSG:4087 into PROJ.4 format.
 #
